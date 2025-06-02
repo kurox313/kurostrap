@@ -2,18 +2,12 @@
 > The only official places to download Fishstrap are this GitHub repository and [fishstrap.app](https://www.fishstrap.app). Any other websites offering downloads or claiming to be us are not controlled by us (eg. fishstrap.org, fishstrap.com). We strongly recommend **not** downloading from any unofficial sources.
 > THIS is for testing purposes only
 
-<p align="center">
-    <img src="https://github.com/returnrqt/fishstrap/raw/main/Images/Bloxstrap-full-dark.png#gh-dark-mode-only" width="420">
-    <img src="https://github.com/returnrqt/fishstrap/raw/main/Images/Bloxstrap-full-light.png#gh-light-mode-only" width="420">
-</p>
-
 <div align="center">
 
-![Fishstrap Showcase](https://www.fishstrap.app/img/Showcase.png)
 
-Fishstrap is a Bloxstrap fork aiming to enhance some of the features.
+Kurostrap is a Bloxstrap/fishstrap fork aiming to enhance some of the features.
 
-Found any bugs? [Submit an issue](https://github.com/returnrqt/fishstrap/issues/new/choose) or create a bug report in our [Discord server](https://discord.gg/SRs5zb9BJd).
+
 
 [![License][badge-repo-license]][repo-license]
 [![Workflow][badge-repo-workflow]][repo-actions]
@@ -66,4 +60,4 @@ Found any bugs? [Submit an issue](https://github.com/returnrqt/fishstrap/issues/
 [repo-releases]: https://github.com/returnrqt/fishstrap/releases
 [repo-latest]:   https://github.com/returnrqt/fishstrap/releases/latest
 
-[discord-invite]:  https://discord.gg/SRs5zb9BJd
+[discord-invite]:  https://discord.gg/Qmu6GApYKu
